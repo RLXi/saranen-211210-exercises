@@ -1,6 +1,8 @@
 # saranen-211210-exercises
 
-Compilation of exercises, up to exercise 15.
+Compilation of exercises, up to exercise 15. However, some digging into to the code is required because where on exercise begins and ends is not marked at all. I trust people accessing this repo know what to look for.
+
+---
 
 Database used in the exercises runs in Docker, build with command
 
